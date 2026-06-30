@@ -134,11 +134,6 @@ Together these flip the expectation from a ~0.5% house edge to a small but real
   casino, and no table-conditions noise — i.e. an idealized environment.
 - Surrender is not implemented (omitted from the default rule set).
 
-## Possible extensions
-
-- The full index set + back-counting / Wonging for the counter.
-- Numba/Cython acceleration to push past 10M hands interactively.
-- Risk-of-ruin and Kelly-criterion bet sizing for the counter.
 
 ---
 
