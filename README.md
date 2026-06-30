@@ -1,10 +1,18 @@
 # 🃏 Blackjack Monte Carlo EV Simulator
 
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://blackjack-ev-simulator-6vp4ztjkn37bauil43fipu.streamlit.app/)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
 A Monte Carlo simulation engine that deals **millions of blackjack hands** to
 quantify the house edge, compare playing strategies, stress-test betting
 systems, and demonstrate how **card counting** turns the advantage to the
 player — all behind an interactive Streamlit dashboard with full statistical
 rigor (means, standard errors, and 95% confidence intervals).
+
+**▶ Try it live: [blackjack-ev-simulator.streamlit.app](https://blackjack-ev-simulator-6vp4ztjkn37bauil43fipu.streamlit.app/)**
 
 ![House edge by strategy](assets/strategy_comparison.png)
 
